@@ -1,0 +1,9 @@
+{
+  "appId": "com.numvera.naija",
+  "appName": "Numvera Naija",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
